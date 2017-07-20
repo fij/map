@@ -1,0 +1,11 @@
+# TAB-separated items: status code, page size (page size is "-" if status code is not 200), full link
+
+200	21623	http://www.mit.edu
+200	10538	http://web.mit.edu/industry
+200	22209	http://mitstory.mit.edu
+200	8355	http://web.mit.edu/community
+200	35340	http://odl.mit.edu/beyond-campus/mitx-edx-moocs
+200	103649	http://news.mit.edu/2017/mit-solve-initiative-seeks-solutions-global-challenges-0719
+200	43672	http://gradadmissions.mit.edu
+200	99970	http://calendar.mit.edu
+...
